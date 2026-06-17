@@ -16,7 +16,7 @@ brew install scumfrog/tap/torii
 curl -fsSL https://usetorii.dev/install.sh | sh
 
 # npm
-npx @torii/gateway
+npx @usetorii/gateway
 
 # Docker
 docker pull ghcr.io/scumfrog/torii-gateway:latest
